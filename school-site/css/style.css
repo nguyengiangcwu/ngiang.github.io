@@ -93,8 +93,8 @@ header, footer {
     font-style: normal;
 }
 
-/* Typography Styles */
 
+/* Typography Styles */
 
 html {
     font-family: montserrat, Arial, sans-serif;
@@ -106,9 +106,9 @@ h1, h2 {
 }
 
 h1 {
-font-size: 3.75rem;
-margin: 1.125rem;
-text-align: center;
+    font-size: 3.75rem;
+    margin: 1.125rem;
+    text-align: center;
 }
 
 h2 {
